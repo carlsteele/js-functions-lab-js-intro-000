@@ -11,7 +11,7 @@ function happyHolidaysTo(birthday, randy){
   return `Happy ${birthday}, ${randy}!`
 }
 
-function holidayCountdown(Hannakah, six){
-  return `It's ${six} days until ${Hannakah}!`
+function holidayCountdown(Hannakah, days){
+  return `It's ${days} days until ${holiday}!`
 }
 
