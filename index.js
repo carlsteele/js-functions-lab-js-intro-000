@@ -7,7 +7,7 @@ function happyHolidaysTo(bobby){
   return `Happy holidays, ${bobby}!`
 }
 
-function happyHolidaysTo(Hannakah, bobby){
+function happyHolidaysTo(Hannakah, Bobby){
   return `Happy ${Hannakah}, ${Bobby}!`
 }
 
